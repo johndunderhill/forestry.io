@@ -33,7 +33,7 @@ The Remote Admin is deployed as a static HTML page, so be sure you deploy it to 
 
 ### Examples
 
-* In Hugo, this is `/static/admin`
+* In Hugo, this is `/static/admin` or just `admin`
 * In Jekyll, this is `/admin/`
 
 ## Deploying the Remote Admin
